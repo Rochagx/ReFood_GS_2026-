@@ -60,6 +60,25 @@ export default function Footer() {
       <div className="border-t border-white/10">
         <p className="mx-auto max-w-container px-4 py-5 text-center text-xs text-white/50 md:px-6 lg:px-8">
           © {ano} ReFood · Global Solution FIAP — CitizenTech · Turma 1TDSPO
+          {" · "}
+          {/* Links externos abrem em outra aba */}
+          <a
+            href="https://github.com/Rochagx/ReFood_GS_2026-"
+            target="_blank"
+            rel="noreferrer"
+            className="transition-colors hover:text-green-300"
+          >
+            GitHub
+          </a>
+          {" · "}
+          <a
+            href="https://www.figma.com/design/KoYMvoZNKaJrCyX71RVbT5/ReFood-%E2%80%94-GS-2026--Telas-?node-id=0-1"
+            target="_blank"
+            rel="noreferrer"
+            className="transition-colors hover:text-green-300"
+          >
+            Figma
+          </a>
         </p>
       </div>
     </footer>
