@@ -4,6 +4,8 @@ O **ReFood** é uma plataforma que conecta mercados, restaurantes, padarias e fe
 
 Projeto da **Global Solution 2026/2 — CitizenTech** (FIAP), disciplina **Front-End Design Engineering**.
 
+![ReFood no computador e no celular](docs/prints/mockup-hero.png)
+
 ## Links
 
 | | |
@@ -37,6 +39,9 @@ Reduzir o desperdício alimentar, incentivar o consumo consciente e oferecer ali
 Todas as telas que consomem a API mostram **carregando**, **erro** (com botão “tentar de novo”) e **ausência de dados**.
 
 ## Telas
+
+### Versão mobile (390 px)
+![Ofertas, detalhe da oferta e parceiros no celular](docs/prints/mockup-mobile.png)
 
 ### Início
 ![Página inicial com ofertas em destaque](docs/prints/home.png)
