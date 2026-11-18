@@ -127,6 +127,14 @@ Abra `http://localhost:5173`.
 | `npm run build` | Checagem de tipos + build de produção |
 | `npm run preview` | Testa o build localmente |
 
+## Fluxo de trabalho com Git
+
+- A branch `main` guarda a versão publicada na Vercel.
+- Cada mudança é feita numa branch própria (`feature/...`, `chore/...`, `docs/...`) criada a partir da `main`.
+- Ao terminar, o integrante abre um **Pull Request** para a `main`; outro integrante revisa e faz o merge.
+- Mensagens de commit em português com prefixo: `feat:`, `fix:`, `style:`, `chore:`, `docs:`.
+- Antes de enviar, rodar `npm run build` para garantir que o projeto compila.
+
 ## Integrantes
 
 | Nome | RM | GitHub |
