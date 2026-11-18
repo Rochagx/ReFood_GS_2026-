@@ -1,0 +1,3 @@
+# Permite que buscadores indexem todo o site do ReFood
+User-agent: *
+Allow: /
