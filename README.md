@@ -10,11 +10,11 @@ Projeto da **Global Solution 2026/2 — CitizenTech** (FIAP), disciplina **Front
 
 | | |
 | --- | --- |
-| Aplicação (Vercel) | https://SEU-PROJETO.vercel.app <!-- TODO: colar o link da Vercel --> |
+| Aplicação (Vercel) | https://refoodgs26.vercel.app/ |
 | Repositório (GitHub) | https://github.com/Rochagx/ReFood_GS_2026- |
 | API Java (Render) | https://refood-cdeg.onrender.com |
 | Documentação da API | https://refood-cdeg.onrender.com/swagger-ui/index.html |
-| Vídeo (YouTube) | https://youtu.be/SEU-VIDEO <!-- TODO: vídeo de até 3 minutos --> |
+| Vídeo (Google Drive) | https://drive.google.com/file/d/1e-8VNM-UK9X_0aIlXXmeFaBstTcE0cFO/view?usp=sharing |
 
 ## Objetivo
 
@@ -119,10 +119,6 @@ Abra `http://localhost:5173`.
 | `npm run build` | Checagem de tipos + build de produção |
 | `npm run preview` | Testa o build localmente |
 
-### Como o front fala com a API
-
-As chamadas usam o prefixo `/api`. Em desenvolvimento o **proxy do Vite** (`vite.config.ts`) e na Vercel o **rewrite** (`vercel.json`) encaminham para `https://refood-cdeg.onrender.com`, evitando problemas de CORS.
-
 ## Integrantes
 
 | Nome | RM | GitHub |
@@ -137,4 +133,4 @@ Turma 1TDSPO — FIAP.
 
 ## Contato
 
-Dúvidas sobre o projeto: abra uma *issue* no repositório ou use a página [Contato](https://SEU-PROJETO.vercel.app/contato).
+Dúvidas sobre o projeto: abra uma *issue* no repositório ou use a página [Contato](https://refoodgs26.vercel.app/contato).
