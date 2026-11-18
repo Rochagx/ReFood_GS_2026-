@@ -14,6 +14,7 @@ Projeto da **Global Solution 2026/2 — CitizenTech** (FIAP), disciplina **Front
 | Repositório (GitHub) | https://github.com/Rochagx/ReFood_GS_2026- |
 | API Java (Render) | https://refood-cdeg.onrender.com |
 | Documentação da API | https://refood-cdeg.onrender.com/swagger-ui/index.html |
+| Protótipo (Figma) | https://www.figma.com/design/KoYMvoZNKaJrCyX71RVbT5/ReFood-%E2%80%94-GS-2026--Telas-?node-id=0-1&t=i4UmeHKqcIhcuavp-1 |
 | Vídeo (Google Drive) | https://drive.google.com/file/d/1e-8VNM-UK9X_0aIlXXmeFaBstTcE0cFO/view?usp=sharing |
 
 ## Objetivo
@@ -37,6 +38,13 @@ Reduzir o desperdício alimentar, incentivar o consumo consciente e oferecer ali
 | Sobre, Integrantes, FAQ, Contato | `/sobre`, `/integrantes`, `/faq`, `/contato` | Institucionais (Contato com formulário validado) |
 
 Todas as telas que consomem a API mostram **carregando**, **erro** (com botão “tentar de novo”) e **ausência de dados**.
+
+## Design no Figma
+
+As telas foram prototipadas no Figma antes do código: 15 telas desktop (1440 px) e 8 telas mobile (390 px).
+[Abrir o arquivo no Figma](https://www.figma.com/design/KoYMvoZNKaJrCyX71RVbT5/ReFood-%E2%80%94-GS-2026--Telas-?node-id=0-1&t=i4UmeHKqcIhcuavp-1)
+
+![Telas do ReFood no Figma](docs/prints/figma.png)
 
 ## Telas
 
